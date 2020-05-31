@@ -10,6 +10,8 @@ emerging markets in other countries.
 AT&T is looking to invest $10 million into the company. You have been consulted as a group of data and business intelligence experts to examine this data, Use appropriate visualization tools to represent your insights and make a presentation to the Management team.
 The Business Solution
 
+TOOL : MICROSOFT POWER BI 
+
 The final result was an interactive strategic report in Power BI from which Management could evaluate the following;
 1. Total performance of the country
 2. State on state performance
