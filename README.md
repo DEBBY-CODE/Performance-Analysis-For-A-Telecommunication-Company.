@@ -18,5 +18,8 @@ The final result was an interactive strategic report in Power BI from which Mana
 5. Best performing product, calls or data plan
 6. Most Performing Geographical location
 7. Comparison of count of data users to call users
+
+
 LINK TO THE INSIGHT GENERATED DASHBOARD AND CASE STUDY : https://app.powerbi.com/view?r=eyJrIjoiZjY0YWQyOTItMGRjZS00MDJkLTk0NDctZmJmMTdhZDg5NjM3IiwidCI6IjY4MGM0NTYxLWJmYzItNGI0Yi1hMzczLTk1NjQwNGZjMjIwMSJ9
+
 https://medium.com/@debbyalenkhe/case-study-a-telecommunication-performance-analysis-15641be83ef5
